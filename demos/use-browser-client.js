@@ -1,4 +1,4 @@
-// import { ChatGPTBrowserClient } from '@waylaidwanderer/chatgpt-api';
+// import { ChatGPTBrowserClient } from '@sseeqq/chatgpt-api-server';
 import { ChatGPTBrowserClient } from '../index.js';
 
 const clientOptions = {
